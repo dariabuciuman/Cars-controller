@@ -79,13 +79,13 @@ public class Car implements Runnable {
     private void initImages() {
         try {
             String path = new File("").getAbsolutePath();
-            left = ImageIO.read(new File(path + "\\carLeft1.png"));
+            left = ImageIO.read(new File(path + "\\assets\\carLeft.png"));
             left = left.getScaledInstance(150, 150, Image.SCALE_DEFAULT);
-            right = ImageIO.read(new File(path + "\\carRight1.png"));
+            right = ImageIO.read(new File(path + "\\assets\\carRight.png"));
             right = right.getScaledInstance(150, 150, Image.SCALE_DEFAULT);
-            up = ImageIO.read(new File(path + "\\carUp.png"));
+            up = ImageIO.read(new File(path + "\\assets\\carUp.png"));
             up = up.getScaledInstance(60, 120, Image.SCALE_DEFAULT);
-            down = ImageIO.read(new File(path + "\\carDown.png"));
+            down = ImageIO.read(new File(path + "\\assets\\carDown.png"));
             down = down.getScaledInstance(60, 120, Image.SCALE_DEFAULT);
         } catch (IOException e) {
             e.printStackTrace();

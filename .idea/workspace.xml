@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e7f2f4f-1592-4f26-a309-5c7b7f2b901a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carDown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/carLeft1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/carRight1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/carUp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +91,7 @@
       <workItem from="1634283539750" duration="489000" />
       <workItem from="1642156732668" duration="305000" />
       <workItem from="1642178668171" duration="1206000" />
-      <workItem from="1642180639708" duration="466000" />
+      <workItem from="1642180639708" duration="706000" />
     </task>
     <servers />
   </component>
